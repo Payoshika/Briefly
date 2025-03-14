@@ -1,1 +1,522 @@
-[]
+[
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "John Liu, Juliana Liu",
+        "title": "Walmart feels the heat after reportedly demanding discounts to cope with tariffs - CNN",
+        "description": "Walmart is getting caught in the middle of an escalating trade war between the United States and China.",
+        "url": "https://www.cnn.com/2025/03/13/business/walmart-china-investigation-us-tariffs-intl-hnk/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25071413544294.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-03-13T05:22:00Z",
+        "content": "Walmart is getting caught in the middle of an escalating trade war between the United States and China.\r\nChinese officials confirmed on Thursday they had met with executives from the US retail giant,… [+2517 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Elaine Kurtenbach",
+        "title": "Asian shares decline despite rebound on Wall St as investors await next steps in trade wars - The Associated Press",
+        "description": "Asian shares are mostly lower despite a rebound on Wall Street fueled by an encouraging inflation update. Chinese markets were lower as investors watched for the next steps in President Donald Trump’s trade war. U.S. futures fell and oil prices were little ch…",
+        "url": "https://apnews.com/article/stocks-markets-rates-tariffs-1c8e59d6f2661c6e3c6aeda8ab07a583",
+        "urlToImage": "https://dims.apnews.com/dims4/default/f6fec69/2147483647/strip/true/crop/7130x4011+0+372/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F65%2Fb578a8301e41d54b9f6cfe3d0676%2Ffef3d001ba4c4b17b4533adf6933b8a0",
+        "publishedAt": "2025-03-13T04:45:00Z",
+        "content": "BANGKOK (AP) Asian shares were mostly lower on Thursday despite a rebound on Wall Street fueled by an encouraging update on U.S. consumer prices. \r\nU.S. futures fell and oil prices were little change… [+4227 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lloyd Lee",
+        "title": "Tesla's latest decline could be one for the history books, JPMorgan analysts say - Business Insider",
+        "description": "Tesla recently lost nearly 50% of its $1.5 trillion market. JPMorgan analysts don't know another car company that lost so much value so quickly.",
+        "url": "https://www.businessinsider.com/tesla-stock-decline-jp-morgan-analyst-guidance-2025-3",
+        "urlToImage": "https://i.insider.com/67d2202bb8b41a9673fa7cc3?width=1200&format=jpeg",
+        "publishedAt": "2025-03-13T03:33:38Z",
+        "content": "Tesla has lost so much value in such a short period of time that JPMorgan analysts said they couldn't think of another comparable moment in automotive history.\r\n\"We struggle to think of anything anal… [+3429 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Lionel Lim",
+        "title": "TSMC's $100 billion U.S. investment won't shake up the supply chain: 'Most of TSMC's capacity is still in Taiwan' - Fortune",
+        "description": "In recent days, Taiwan's government and TSMC have come out to say that the chipmaker's decision was not due to Washington pressure.",
+        "url": "https://fortune.com/asia/2025/03/12/tsmc-us-investment-change-chip-supply-chain-taiwan/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/03/GettyImages-2202604849-e1741776391134.jpg?resize=1200,600",
+        "publishedAt": "2025-03-13T03:14:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Kai Schultz, Preeti Singh",
+        "title": "An Investor’s Guide to India - Bloomberg",
+        "description": "Five sectors to watch in the world’s fastest-growing major economy.",
+        "url": "https://www.bloomberg.com/features/2025-investors-guide-to-india/",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO8QOvJAGkWM/v0/-1x-1.jpg",
+        "publishedAt": "2025-03-13T01:00:00Z",
+        "content": "For investors optimistic about the India growth story, Hyderabad is tough to beat as Exhibit A. \r\nIn the citys financial district, construction cranes dot a skyline dominated by the worlds wealthiest… [+12853 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tipranks.com"
+        },
+        "author": "Marty Shtrubel",
+        "title": "‘Load Up Ahead of GTC,’ Says Wells Fargo About Nvidia Stock - TipRanks",
+        "description": "Nvidia (NASDAQ:NVDA) has seen its remarkable ascent encounter some resistance recently. Year-to-date, the stock is down 14%, pressured by several company-specific h...",
+        "url": "https://www.tipranks.com/news/load-up-ahead-of-gtc-says-wells-fargo-about-nvidia-stock",
+        "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/03/Aaron-Rakers-NVDA-750x406.jpg",
+        "publishedAt": "2025-03-13T00:09:41Z",
+        "content": "Nvidia (NASDAQ:NVDA) has seen its remarkable ascent encounter some resistance recently. Year-to-date, the stock is down 14%, pressured by several company-specific headwinds including the rise of Deep… [+3165 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Dee-Ann Durbin, Anne D'Innocenzio",
+        "title": "From soup cans to airplanes, steel and aluminum are a fundamental part of American life - The Associated Press",
+        "description": "Steel and aluminum are ubiquitous in Americans’ lives. A stainless steel refrigerator holds aluminum soda cans. A stainless steel drum tumbles inside an aluminum washing machine. That’s why President Donald Trump’s 25% tariffs on all steel and aluminum import…",
+        "url": "https://apnews.com/article/steel-aluminum-tariffs-trump-70479a1206f9d57a3b65747c17f46b52",
+        "urlToImage": "https://dims.apnews.com/dims4/default/f578c67/2147483647/strip/true/crop/5000x2813+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F62%2F07a371d80f5651e5353820fc90cc%2F1a967a4cbb0a453884f300dcf09f49a3",
+        "publishedAt": "2025-03-13T00:07:00Z",
+        "content": "Steel and aluminum are ubiquitous in Americans lives. A stainless steel refrigerator holds aluminum soda cans. A stainless steel drum tumbles inside an aluminum washing machine. Theyre the metals use… [+8893 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Barron's",
+        "title": "Adobe Stock Slides Despite Earnings Beat. The CFO Is Confident About AI. - Barron's",
+        "description": null,
+        "url": "https://www.barrons.com/articles/adobe-earnings-stock-price-4d3801c7",
+        "urlToImage": null,
+        "publishedAt": "2025-03-12T23:52:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Trump's White House Tesla showcase for Musk raises ethics concerns - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/Politics/trumps-white-house-tesla-showcase-raises-ethics-concerns/story?id\\\\u003d119719123",
+        "urlToImage": null,
+        "publishedAt": "2025-03-12T23:12:16Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "Apple Stock Gets Price-Target Cut From Morgan Stanley - Investor's Business Daily",
+        "description": null,
+        "url": "https://www.investors.com/news/technology/apple-stock-price-target-cut-morgan-stanley/",
+        "urlToImage": null,
+        "publishedAt": "2025-03-12T22:18:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Andrew Cunningham",
+        "title": "New Intel CEO Lip-Bu Tan will pick up where Pat Gelsinger left off - Ars Technica",
+        "description": "Tan will start as CEO on March 18, taking over from interim co-CEOs.",
+        "url": "https://arstechnica.com/gadgets/2025/03/new-intel-ceo-lip-bu-tan-will-pick-up-where-pat-gelsinger-left-off/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/intel-sign-1024x648.jpg",
+        "publishedAt": "2025-03-12T22:12:39Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investopedia"
+        },
+        "author": "Michael Bromberg",
+        "title": "S&P 500 Gains and Losses Today: Tech Stocks Bounce Back After Soft Inflation Data - Investopedia",
+        "description": "The S&P 500 added 0.5% on Wednesday, March 12, after a key inflation report showed consumer prices increased at a slower-than-expected pace last month.",
+        "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-tech-stocks-bounce-back-after-soft-inflation-data-11695355",
+        "urlToImage": "https://www.investopedia.com/thmb/xGlo2OoRUM-aH2TyFP39QOzLHSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2202765440-f455aaff8ae34681a33d4475dc8491fe.jpg",
+        "publishedAt": "2025-03-12T21:05:07Z",
+        "content": "<ul><li>The S&amp;P 500 added 0.5% on Wednesday, March 12, after a key inflation report showed consumer prices increased at a slower-than-expected pace last month.</li><li>The soft inflation data hel… [+3231 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Jenn Gidman",
+        "title": "Woman Sues Over 'Dangerous Toxins' in Girl Scout Cookies - Newser",
+        "description": "Proposed class-action complaint says all cookies tested were positive for lead, glyphosate",
+        "url": "https://www.newser.com/story/365589/lawsuit-girl-scout-cookies-infused-with-lead-pesticide.html",
+        "urlToImage": "https://img2-azrcdn.newser.com/image/1598277-12-20250312162117.jpeg",
+        "publishedAt": "2025-03-12T21:04:00Z",
+        "content": "Most people love a good Thin Mint, but a recent lawsuit against the Girl Scouts puts a damper on that affection for at least one New York woman, who claims the presence of heavy metals and pesticides… [+1179 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Danny Nguyen",
+        "title": "Mark Cuban wants to fill the void created by Musk’s cuts - POLITICO",
+        "description": "But can he do it?",
+        "url": "https://www.politico.com/news/2025/03/12/mark-cuban-doge-technology-services-00227218",
+        "urlToImage": "https://static.politico.com/61/cd/ad8d66a3421aaefdcf1d01ca4491/https-delivery-gettyimages.com/downloads/2178242568",
+        "publishedAt": "2025-03-12T20:55:35Z",
+        "content": "I think its possible to out-Elon, Elon, because the people he will bring in dont know what they dont know, the billionaire told POLITICO.\r\nGSAs 18F tech unit was charged with modernizing and building… [+6402 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": "James Politi",
+        "title": "Donald Trump taps Michelle Bowman as Fed vice-chair for supervision - Financial Times",
+        "description": "Champion of light regulation expected to be welcomed by Wall Street",
+        "url": "https://www.ft.com/content/6c81a131-b786-4f28-8abd-63e71284c5bd",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F011ed792-8a57-4ff4-8fa9-98593050a765.jpg?source=next-barrier-page",
+        "publishedAt": "2025-03-12T20:46:51Z",
+        "content": "White House Watch newsletter\r\nSign up for your free, indispensable guide to what Trumps second term means for Washington, business and the world."
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Justine Calma",
+        "title": "Solar and wind beat coal in the US for the first time - The Verge",
+        "description": "Solar and wind combined have become a bigger share of the US electricity mix than coal.",
+        "url": "https://www.theverge.com/news/628369/solar-wind-beat-coal-us-ember-report",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-12T20:27:30Z",
+        "content": "Renewable energy has made significant strides in the US.\r\nRenewable energy has made significant strides in the US.\r\nIn a first for the US, wind and solar produced more electricity than coal last year… [+4185 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "mlive.com"
+        },
+        "author": "Matt Durr | mattdurr@mlive.com",
+        "title": "FBI says iPhone, Android users need to delete these texts ASAP - MLive.com",
+        "description": "Scammers attempt to convince unsuspecting targets of unpaid tolls and request payment through text messaging.",
+        "url": "https://www.mlive.com/news/2025/03/fbi-says-iphone-android-users-need-to-delete-these-texts-asap.html",
+        "urlToImage": "https://www.mlive.com/resizer/v2/6WXKBGDBHVBZ7OS2T3YUWW5K4Q.jpg?auth=7c1036b197abbef93c7957b36c8d3d5a2e11e627d3748e21bb66e876e28fb7f0&width=1280&quality=90",
+        "publishedAt": "2025-03-12T20:21:00Z",
+        "content": "The Federal Bureau of Investigation says an ongoing text messaging scam is targeting Android and iPhone users. According to the FBI, the scam -- known as smishing -- aims to steal personal and financ… [+1330 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Alison Durkee",
+        "title": "Here’s What We Know About Trump And Musk’s Social Security Plans—As Agency Reportedly Mulls Cutting Phone Services - Forbes",
+        "description": "DOGE making sweeping cuts at the Social Security Administration “would be catastrophic for the people in our country,” the acting head of the agency reportedly said.",
+        "url": "https://www.forbes.com/sites/alisondurkee/2025/03/12/heres-what-we-know-about-trump-and-musks-social-security-plans-as-agency-reportedly-mulls-cutting-phone-services/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bf36ebd7823fe2f95a4f85/0x0.jpg?format=jpg&crop=3739,2103,x0,y46,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-03-12T20:05:00Z",
+        "content": "The Social Security Administration is considering ending its phone serviceused for 40% of benefit claimsdue to largely unfounded concerns of phone fraud by Elon Musks Department of Government Efficie… [+17536 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Lauren Feiner",
+        "title": "Judge says she’s leaning toward temporarily saving the CFPB - The Verge",
+        "description": "The judge in a case brought by the union for Consumer Financial Protection Bureau staff fears there may not be an agency to revive if she doesn’t intervene.",
+        "url": "https://www.theverge.com/news/628327/cfpb-nteu-vought-shut-down",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS502_government_finance_cvirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-03-12T18:45:49Z",
+        "content": "A judge could save Americas financial watchdog\r\nTheres been no change in plans to wind down the agency, a CFPB employee testified.\r\nA judge could save Americas financial watchdog\r\nTheres been no chan… [+9183 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Ashley Belanger",
+        "title": "FTC can’t afford to fight Amazon’s allegedly deceptive sign-ups after DOGE cuts - Ars Technica",
+        "description": "FTC says credit card charges are capped at $1, amid other budget shortfalls.",
+        "url": "https://arstechnica.com/tech-policy/2025/03/doges-extremely-severe-ftc-cuts-prompt-request-to-delay-amazon-trial/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2081795649-1152x648.jpg",
+        "publishedAt": "2025-03-12T18:33:50Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Alison Herman",
+        "title": "‘Everybody’s Live with John Mulaney’ Turns a One-Off Experiment Into Consistently Delightful Chaos: TV Review - Variety",
+        "description": "The Netflix debut of John Mulaney's talk show 'Everybody's Live' picks up right where 'Everybody's in LA' left off.",
+        "url": "https://variety.com/2025/tv/reviews/john-mulaney-netflix-review-everybodys-live-1236335973/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/03/ELJM_RW_031225_00671.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2025-03-13T05:26:00Z",
+        "content": "“Everybody’s Live with John Mulaney” isn’t quite a new show. Instead, the series is the evolution of “Everybody’s in LA,” a pop-up concept — and apparently, trial run — timed to the Netflix Is a Joke… [+4400 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TooFab"
+        },
+        "author": "Toofab Staff",
+        "title": "Kim Kardashian Makes Wild Claim About Kris Humphries Engagement Ring & Divorce - TooFab",
+        "description": "On the latest episode of The Kardashians, Kim reflected on all her engagement rings -- including the one she says Humphries forced her to return -- and revealed why Kanye West warned her about having her them stolen right before she was robbed.",
+        "url": "https://toofab.com/2025/03/12/kim-kardashian-kris-humphries-engagement-ring/",
+        "urlToImage": "https://images.toofab.com/image/12/16by9/2025/03/12/12f3b5b8e0724a6a8b940ff62d46fbfe_xl.jpg",
+        "publishedAt": "2025-03-13T05:00:00Z",
+        "content": "Kim Kardashian took a stroll down memory lane on Thursday's new episode of The Kardashians, which saw her reflecting back on her many engagement rings from her three marriages.\r\nThe conversation went… [+3115 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Jack Dunn",
+        "title": "Joan Baez Slams 'Incompetent Billionaires' Running America - Variety",
+        "description": "Joan Baez said America is being run by 'incompetent billionaires' during her appearance on 'Everybody's Live With John Mulaney.'",
+        "url": "https://variety.com/2025/tv/news/joan-baez-incompetent-billionaires-america-john-mulaney-1236335960/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2018/11/mg_9624-e1542115209931.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2025-03-13T04:16:00Z",
+        "content": "Joan Baez shared a stern message about U.S. politics during her Wednesday night appearance on the season premiere of “Everybody’s Live With John Mulaney.”\r\nBefore telling a story about Martin Luther … [+1271 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Edward Segarra",
+        "title": "Dawn Robinson of En Vogue reveals she's been living in car for 3 years: 'I have no shame' - USA TODAY",
+        "description": "The Grammy-nominated singer said in a 20-minute video that she \"felt free\" as she started living in her car and told fans she wasn't looking for pity.",
+        "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/03/12/dawn-robinson-living-in-car-en-vogue/82345169007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/03/13/USAT/82345300007-173202423.jpg?crop=2996,1686,x0,y238&width=2996&height=1686&format=pjpg&auto=webp",
+        "publishedAt": "2025-03-13T02:49:45Z",
+        "content": "For En Vogue's Dawn Robinson, the road has become her home.\r\nIn a candid video blog posted Tuesday, the Grammy-nominated R&amp;B singer revealed to fans that she's been living in her car for the past… [+2864 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Lynette Rice",
+        "title": "Kelly Clarkson Expected To Resume Taping On Eponymous Talk Show Thursday After Absence - Deadline",
+        "description": "Kelly Clarkson Expected To Resume Taping On Her Eponymous Talk Show Thursday After Unexplained Absence",
+        "url": "http://deadline.com/2025/03/kelly-clarkson-returning-march-13-talk-show-1236324974/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/Kelly-Clarkson.jpg?w=1000",
+        "publishedAt": "2025-03-13T02:44:00Z",
+        "content": "Kelly Clarkson is expected to resume taping March 13 on her eponymous talk show after an unexplained absence left fans wondering where their favorite singer-host had gone. \r\nClarkson missed the March… [+1100 chars]"
+    },
+    {
+        "source": {
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
+        },
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "'Mighty Ducks' star offers Wendy Williams a stay in his mansion amid conservatorship battle - Entertainment Weekly News",
+        "description": "A former child star from the 'Mighty Ducks' movies offered Wendy Williams a stay in one of his mansions amid her conservatorship battle: 'Wendy has given so much to the world.'",
+        "url": "https://ew.com/mighty-ducks-star-offers-wendy-williams-stay-in-his-mansion-11696011",
+        "urlToImage": "https://ew.com/thmb/zqprH_21Lbz5sSIDZp3hF0mRwAE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Brock-Pierce-Wendy-Williams-10_03122025-e64b7f4ea8a44505bccfccccc1f762e5.jpg",
+        "publishedAt": "2025-03-13T01:28:31Z",
+        "content": "Wendy Williams has received an unusual offer from a former child actor.\r\nBrock Pierce, who played the young version of Emilio Estevez's character in the first two Mighty Ducks movies, publicly offere… [+3114 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "Carly Thomas",
+        "title": "Ayo Edebiri Says She Was Having a “Silly Goofy Time” With Post About Elon Musk Causing Death Threats - Hollywood Reporter",
+        "description": "'The Bear' star shared on her Instagram Story that she got \"insane death threats and racial slurs\" due to a post on X from the billionaire last year.",
+        "url": "http://www.hollywoodreporter.com/news/general-news/ayo-edebiri-clarifies-post-elon-musk-causing-death-threats-1236162410/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/Ayo-Edebiri-getty-H-2025.png?w=1296&h=730&crop=1",
+        "publishedAt": "2025-03-13T01:20:04Z",
+        "content": "Ayo Edebiri says she actually wasn’t trying to stir the pot with her post about Elon Musk causing her death threats.\r\nThe Emmy-winning actress took to her Instagram Story on Wednesday, writing, “Stop… [+1803 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "IndieWire"
+        },
+        "author": "Anne Thompson",
+        "title": "After a Self-Imposed Acting Hiatus, Michael Fassbender Explains Why Projects Like ‘Black Bag’ and ‘The Agency’ Brought Him Back - IndieWire",
+        "description": "The actor tells IndieWire about taking time off, and why spy roles in \"Black Bag\" and \"The Agency\" scratch the itch of the \"the only thing\" he can do.",
+        "url": "https://www.indiewire.com/features/interviews/michael-fassbender-black-bag-the-agency-interview-1235103003/",
+        "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/03/GettyImages-2203684254.jpg?w=650",
+        "publishedAt": "2025-03-12T21:30:00Z",
+        "content": "Michael Fassbender is back. After a recent four-year hiatus (2020-2023) to pursue Formula One racing at Le Mans, he’s returned to acting with a vengeance. \r\nIn 2023, he played a perfectionist assassi… [+10971 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "HuffPost"
+        },
+        "author": "Curtis M. Wong",
+        "title": "Former Vanity Fair Editor Delivers A Blistering Review Of Meghan Markle’s Netflix Series - HuffPost",
+        "description": "Tina Brown criticized the Duchess of Sussex for misjudging the cultural moment, calling it “fake perfection.”",
+        "url": "https://www.huffpost.com/entry/tina-brown-meghan-markle-netflix-series_n_67d1afc4e4b06f5968ceeedb",
+        "urlToImage": "https://img.huffingtonpost.com/asset/67d1dc511600001400c523ca.jpg?cache=beDXcSCUvj&ops=1200_630",
+        "publishedAt": "2025-03-12T21:07:08Z",
+        "content": "British-American journalist Tina Brown has joined a growing list of media figures who have shared less-than-favorable takes on Meghan Markles new lifestyle series, With Love, Meghan. \r\nIn Mondays edi… [+3870 chars]"
+    },
+    {
+        "source": {
+            "id": "buzzfeed",
+            "name": "Buzzfeed"
+        },
+        "author": "Brian Galindo",
+        "title": "Bill Burr Tore Into Elon Musk, Calling Him An \"Idiot\" And \"Evidently A Nazi\" - BuzzFeed",
+        "description": "\"I just love how Bill Burr has stood his ground on his beliefs and hasn't fallen for the right-wing grifting pipeline so many of his peers have fallen into.\"",
+        "url": "https://www.buzzfeed.com/briangalindo/bill-burr-slams-elon-musk-calls-him-a-nazi",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/12/20/thumb/jGWG2tKiO.jpg?crop=1200:628;0,0%26downsize=1250:*",
+        "publishedAt": "2025-03-12T20:55:11Z",
+        "content": "The funny thing about Bill Burr constantly cooking Elon Musk is that Elon wouldn't dare be in the same room with him because 3 minutes with Bill would have Elon standing at the edge of a building rea… [+67 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ringside News"
+        },
+        "author": "Felix Upton",
+        "title": "Absent AEW Star Set for First AEW Dynamite Match in Months - Ringside News",
+        "description": "Willow Nightingale is officially back in action. Tony Khan took to social media to announce that Willow will face Penelope Ford on the March 12 episode of",
+        "url": "https://www.ringsidenews.com/2025/03/12/absent-aew-star-set-for-first-aew-dynamite-match-in-months/",
+        "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2025/01/title-match-added-to-january-22-aew-dynamite-41.jpg",
+        "publishedAt": "2025-03-12T20:19:05Z",
+        "content": "Willow Nightingale is officially back in action. Tony Khan took to social media to announce that Willow will face Penelope Ford on the March 12 episode of AEW Dynamite, marking her first AEW match si… [+1014 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Dan Heching",
+        "title": "Rosie O’Donnell reveals why she moved to Ireland: ‘It’s been pretty wonderful’ - CNN",
+        "description": "Rosie O’Donnell has made some big moves in 2025.",
+        "url": "https://www.cnn.com/2025/03/11/entertainment/rosie-odonnell-moved-ireland/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24325276716901.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-03-12T19:05:00Z",
+        "content": "Rosie ODonnell has made some big moves in 2025.\r\nThe actress and comedian posted a video on TikTok on Tuesday in which she shared that she moved to Ireland with her child Clay in mid-January, saying,… [+1375 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "Nancy Dillon, Cheyenne Roundtree",
+        "title": "Jay-Z Accuser Heard on Tape Saying Rapper Didn't Assault Her, Lawyer 'Pushed' Her to Sue - Rolling Stone",
+        "description": "Jay-Z accuser captured on tape saying the Roc Nation mogul didn’t assault her and that her lawyer ‘pushed’ her to sue him. Her lawyer denies claim.",
+        "url": "http://www.rollingstone.com/music/music-news/jay-z-accuser-recording-buzbee-sean-combs-1235294472/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/03/jayz-accuser-tape.jpg?crop=0px%2C98px%2C1798px%2C1015px&resize=1600%2C900",
+        "publishedAt": "2025-03-12T18:49:08Z",
+        "content": "The Jane Doe who recently dismissed a lawsuit claiming Jay-Z raped her alongside Sean Combs when she was 13 years old was captured on an audio recording agreeing with private investigators that Jay-Z… [+5695 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The-sun.com"
+        },
+        "author": "Emma Crabtree",
+        "title": "Gene Hackman’s dog in heartbreaking act of loyalty as owner lay dead in his house - The US Sun",
+        "description": "HEARTBREAKING details of the final act of loyalty shown to Gene Hackman by his dogs even after his death have been revealed. As emergency responders attended the actor’s address, they were so…",
+        "url": "https://www.the-sun.com/entertainment/13766436/gene-hackman-dog-loyalty-owner-dead/",
+        "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/03/newspress-collage-gzl16xm7r-1741803523326.jpg?1741789377&strip=all&quality=100&w=1920&h=1080&crop=1",
+        "publishedAt": "2025-03-12T18:19:42Z",
+        "content": "HEARTBREAKING details of the final act of loyalty shown to Gene Hackman by his dogs even after his death have been revealed. \r\nAs emergency responders attended the actor's address, they were soon met… [+5029 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Empire"
+        },
+        "author": null,
+        "title": "Lilo & Stitch Remake Trailer Brings Disney’s Chaotic Yet Cute Blue Alien To Live-Action Life - Empire",
+        "description": "The full trailer for Dean Fleischer Camp's remake of Disney's 2002 animated classic teases chaos and cuteness aplenty from Experiment 626. Watch it at Empire.",
+        "url": "https://www.empireonline.com/movies/news/lilo-and-stitch-remake-trailer-brings-disney-alien-to-live-action/",
+        "urlToImage": "https://images.bauerhosting.com/empire/2025/03/Lilo-Stitch.png?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+        "publishedAt": "2025-03-12T17:47:10Z",
+        "content": "As the song sort of goes, There is no place we'd rather be, than sharing a new trailer for Dean Fleischer Camp's live-action Lilo &amp; Stitch movie. And, handily enough, today the House of Mouse has… [+2022 chars]"
+    },
+    {
+        "source": {
+            "id": "ign",
+            "name": "IGN"
+        },
+        "author": "Rebekah Valentine",
+        "title": "SAG-AFTRA Says It's Still 'Frustratingly Far Apart' From Games Industry Bargaining Group on AI Protections - IGN",
+        "description": "The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) has issued an update to its members on the status of negotiations over video game actor AI protections, saying that while progress has been made, it is still \"frustratin…",
+        "url": "https://www.ign.com/articles/sag-aftra-says-its-still-frustratingly-far-apart-from-games-industry-bargaining-group-on-ai-protections",
+        "urlToImage": "https://assets-prd.ignimgs.com/2023/06/06/sag-aftra-logo-1686071994168.jpg?width=1280",
+        "publishedAt": "2025-03-12T17:26:22Z",
+        "content": "The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) has issued an update to its members on the status of negotiations over video game actor AI protections, sayin… [+6024 chars]"
+    },
+    {
+        "source": {
+            "id": "entertainment-weekly",
+            "name": "Entertainment Weekly"
+        },
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "Scarlett Johansson reveals why she doesn't take photos with fans: 'It really offends a lot of people' - Entertainment Weekly News",
+        "description": "Scarlett Johansson revealed why she has a long-standing policy of not taking photographs with fans: 'It really offends a lot of people.'",
+        "url": "https://ew.com/why-scarlett-johansson-does-not-take-photos-with-fans-11695489",
+        "urlToImage": "https://ew.com/thmb/Wmv9u7f9aQ4p68_DK_JbvNxhK_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/scarlett-johansson-052024-39c6c4b9381240c980de1f69f59fd94a.jpg",
+        "publishedAt": "2025-03-12T17:13:19Z",
+        "content": "Word to the wise: Do not ask Scarlett Johansson to take a selfie during her free time. \r\nThe Avengers alum recently discussed why she has a long-standing policy of not taking photographs with fans if… [+1986 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Denise Petski",
+        "title": "Pamela Bach’s Daughters “Heartbroken” Over “False & Unkind Stories” About Their Mother, Ask For Respect In Her Memory - Deadline",
+        "description": "Pamela Bach's daughters plead for privacy, say they are \"heartbroken\" over \"false and unkind stories\" about their mother.",
+        "url": "http://deadline.com/2025/03/pamela-bach-daughters-false-stories-mother-dead-1236324250/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/03/Pamela-Bach_61e436.jpg?w=1024",
+        "publishedAt": "2025-03-12T16:52:00Z",
+        "content": "EXCLUSIVE:Pamela Bach‘s daughters, Hayley Hasselhoff and Taylor-Ann Hasselhoff, are “heartbroken” over “false and unkind stories” about their mother, and are asking that the public honor their wishes… [+3163 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slate Magazine"
+        },
+        "author": "Sam Adams",
+        "title": "A Harrowing Documentary Examines Who’s to Blame for the Rust Shooting. You Might Not Like Its Answer. - Slate",
+        "description": "Last Take set out to tell the story of Halyna Hutchins—but faced some of the same forces that led to her death.",
+        "url": "https://slate.com/culture/2025/03/alec-baldwin-rust-movie-documentary-halyna-hutchins.html",
+        "urlToImage": "https://compote.slate.com/images/32ee5d0b-75ad-4aad-96e9-b5b51bd9dda3.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+        "publishedAt": "2025-03-12T16:50:00Z",
+        "content": "Part memorial, part procedural, Last Take: Rust and the Story of Halyna is director Rachel Masons tribute to her late friend, the cinematographer Halyna Hutchins, and an investigation into the circum… [+6787 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Rolling Stone"
+        },
+        "author": "Brittany Spanos",
+        "title": "Millie Bobby Brown Claps Back at Tabloids Saying 'She Looks 40': 'What Do You Want Me to Do About It?' - Rolling Stone",
+        "description": "Millie Bobby Brown discussed the recent scrutiny of her looks during a 'Call Her Daddy' appearance.",
+        "url": "http://www.rollingstone.com/culture/culture-news/millie-bobby-brown-claps-back-scrutiny-of-looks-1235294415/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/03/millie-bobby-brown-responds-tabloids.jpg?crop=0px%2C58px%2C1798px%2C1014px&resize=1600%2C900",
+        "publishedAt": "2025-03-12T16:46:22Z",
+        "content": "Millie Bobby Brown sat down with Call Her Daddy‘s Alex Cooper and discussed the recent scrutiny of her appearance. After recent red-carpet appearances, tabloids and various commenters online have tar… [+1328 chars]"
+    }
+]

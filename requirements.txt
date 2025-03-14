@@ -1,26 +1,26 @@
-asgiref @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_47jggogimk/croot/asgiref_1724072471856/work
-bcrypt @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_fca6ureqrm/croot/bcrypt_1736182466341/work
+asgiref
+bcrypt
 beautifulsoup4==4.13.3
 certifi==2025.1.31
-cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e4xd9yd9i2/croot/cffi_1736182819442/work
+cffi
 charset-normalizer==3.4.1
-Django @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_578q9wrure/croot/django_1731615969522/work
+Django
 django-environ==0.12.0
 djangorestframework==3.15.2
 idna==3.10
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+iniconfig
 newsapi-python==0.2.7
-packaging @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a6_qk3qyg7/croot/packaging_1734472142254/work
-pillow @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_85xj2lenf1/croot/pillow_1738010251686/work
-pluggy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bei6q1cvvt/croot/pluggy_1733169621717/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pytest @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_eb_o59tqte/croot/pytest_1738938845265/work
+packaging
+pillow
+pluggy
+pycparser
+pytest
 python-dotenv==1.0.1
 requests==2.32.3
 setuptools==75.8.0
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six
 soupsieve==2.6
-sqlparse @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_444946bpsc/croot/sqlparse_1734704466504/work
+sqlparse
 typing_extensions==4.12.2
 urllib3==2.3.0
 wheel==0.45.1

@@ -1,0 +1,1 @@
+web: gunicorn reading_circle.wsgi

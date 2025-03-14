@@ -1,0 +1,190 @@
+@use 'base' as *;
+
+// responsive design
+@mixin smartphone {
+    @media (max-width: $smartphone-max-width) {
+        @content;
+    }
+}
+
+// flexbox and boxshadow
+@mixin RowJustifyCenterFlexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+@mixin RowJustifyStartFlexbox {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@mixin RowJustifySpaceBetweenFlexbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@mixin ColJustifyCenterFlexbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@mixin ColJustifyStartFlexbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+// box shadow using text-color variable
+@mixin BoxShadow {
+    box-shadow: 0 0 7px rgba($text-color, 0.40);
+}
+
+@mixin BoxShadowOnArticle{
+    // box-shadow: 14px 0 14px -14px rgba($text-color, 0.40), -14px 0 14px -14px rgba($text-color, 0.40);
+    box-shadow: 14px 0 14px -14px rgba($text-color, 0.40), -14px 0 14px -14px rgba($text-color, 0.40), 0 0 0 rgba($text-color, 0), 0 0 0 rgba($text-color, 0);
+}
+
+// button down and up
+@mixin ButtonDown {
+    &:active {
+        transform: translateY(1px);
+    }
+}
+@mixin ButtonUp {
+    &:active {
+        transform: translateY(-1px);
+    }
+}
+
+@mixin MarginBottom1rem {
+    margin-bottom: 1rem;
+}
+
+@mixin MarginBottom2rem {
+    margin-bottom: 2rem;
+}
+
+@mixin MarginBottom3rem {
+    margin-bottom: 3rem;
+}
+
+@mixin MarginLeft1rem {
+    margin-left: 1rem;
+}
+
+@mixin MarginLeft2rem {
+    margin-left: 2rem;
+}
+
+@mixin MarginLeft3rem {
+    margin-left: 3rem;
+}
+
+@mixin MarginRight1rem {
+    margin-right: 1rem;
+}
+
+@mixin MarginRight2rem {
+    margin-right: 2rem;
+}
+
+@mixin MarginRight3rem {
+    margin-right: 3rem;
+}
+
+@mixin MarginTop1rem {
+    margin-top: 1rem;
+}
+
+@mixin MarginTop2rem {
+    margin-top: 2rem;
+}
+
+@mixin MarginTop3rem {
+    margin-top: 3rem;
+}
+
+@mixin MarginTop4rem {
+    margin-top: 4rem;
+}
+
+@mixin MarginTop5rem {
+    margin-top: 5rem;
+}
+
+@mixin MarginBottom4rem {
+    margin-bottom: 4rem;
+}
+
+@mixin MarginBottom5rem {
+    margin-bottom: 5rem;
+}
+
+@mixin MarginLeft4rem {
+    margin-left: 4rem;
+}
+
+@mixin MarginLeft5rem {
+    margin-left: 5rem;
+}
+
+@mixin MarginRight4rem {
+    margin-right: 4rem;
+}
+
+@mixin MarginRight5rem {
+    margin-right: 5rem;
+}
+
+@mixin Margin1rem {
+    margin: 1rem;
+}
+
+@mixin Margin2rem {
+    margin: 2rem;
+}
+
+@mixin Margin3rem {
+    margin: 3rem;
+}
+
+@mixin Margin4rem {
+    margin: 4rem;
+}
+
+@mixin Margin5rem {
+    margin: 5rem;
+}
+
+@mixin Padding1rem {
+    padding: 1rem;
+}
+
+@mixin Padding2rem {
+    padding: 2rem;
+}
+
+@mixin Padding3rem {
+    padding: 3rem;
+}
+@mixin Padding4rem {
+    padding: 4rem;
+}
+
+@mixin Padding5rem {
+    padding: 5rem;
+}
+
+@mixin Padding6rem {
+    padding: 6rem;
+}

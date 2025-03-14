@@ -1,0 +1,32 @@
+// all the variables 
+$background-color: #fcfaf1;
+$text-color: #3a3e46;
+
+//width for responsive design
+$smartphone-max-width: 900px;
+
+/* box sizing */
+*, 
+*::after, 
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    /* base font */
+    /* 1 rem = 10px; 10px/16px = 62.5% */
+    font-size: 62.5%;
+    font-family: 'Helvetica', 'Inter'; 
+}
+
+body{
+    /* base color */
+    background-color: $background-color;
+    color: $text-color;
+    img{
+        object-fit: cover;
+        width: 100%;
+    }
+}

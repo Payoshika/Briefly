@@ -1,0 +1,292 @@
+@use "base" as *;
+@use "mixins" as *;
+
+// create grid system
+.container{
+    display: grid;
+    @include Padding2rem;
+    //make 12 columns in a row with name to each col
+    grid-template-columns: repeat(12, 1fr);
+    //make rows for min-content
+    grid-auto-rows: min-content;
+    padding: 2rem;
+    min-height: 100vh;
+    max-width: 140rem;
+    margin : 0 auto;
+}
+
+.index{
+    grid-column: 1 / -1;
+    @include ColJustifyCenterFlexbox
+}
+
+//navbar grid
+.navbar {
+    grid-column: 1 / -1;
+    grid-row: 1;
+    @include RowJustifyCenterFlexbox;
+    align-items: baseline;
+    gap: 2rem;
+
+    // For widths greater than smartphone
+    @include smartphone{
+        @include RowJustifyStartFlexbox;
+        gap: 1rem;
+        align-items: baseline;
+    }
+}
+
+//banner grid
+.banner {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    @include Padding5rem;
+
+    &--message{
+        @include MarginBottom3rem;
+        @include ColJustifyCenterFlexbox;
+        &--headline{
+            @include ColJustifyStartFlexbox;
+            @include MarginBottom3rem;
+        }
+        &--subheadline{
+            max-width: 40rem;
+            @include MarginBottom3rem;
+            &--text{
+                font-size: 2.5rem;
+            }
+        }
+        .button{
+            padding: 0.3rem 3.5rem;
+        }
+    }
+    &--article{
+        @include ColJustifyStartFlexbox;
+    }
+}
+
+//signup, login, logout, 
+.signup, .login, .logout, .profile {
+    @include Padding5rem;
+    h3{
+        @include MarginBottom3rem;
+    }
+    grid-column: 1 / -1;
+    @include ColJustifyCenterFlexbox;
+    &--form{
+        width: 40rem;
+        @include smartphone{
+            width: auto;
+        }
+        &--input{
+            @include ColJustifyStartFlexbox;
+            @include MarginBottom2rem;
+            >p, input, label{
+                width: 100%;
+            }
+        }
+    }
+    // For widths greater than smartphone
+    @include smartphone{
+        @include ColJustifyCenterFlexbox;
+    }
+}
+
+.account--action{
+    width: 100%;
+    @include ColJustifyStartFlexbox;
+    form{
+        width: 100%;
+        input {
+            width: 100%;
+            color: $text-color;
+            background-color: $background-color;    
+        }
+    }
+}
+
+// question and answer sections
+.qa-link{
+    position: fixed; 
+    bottom: 0; 
+    left: 0;
+    width: 90px; // 90% of 100px
+    height: 90px; // 90% of 100px
+    border-top-right-radius: 90px; // 90% of 100px
+    background-color: $text-color; // Adjust the color as needed
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    a {
+        font-size: 1.35rem; // 90% of 1.5rem
+        font-weight: bold;
+        position: absolute;
+        bottom: -9px; // 90% of -10px
+        left: 9px; // 90% of 10px
+        color: $background-color;
+        text-align: start;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.q-and-a{
+    @include Padding5rem;
+    grid-column: 3 / 11;
+
+    // For widths smaller than smartphone
+    @include smartphone {
+        grid-column: 1 / -1;
+    }
+    max-width: 80rem;
+    .headline{
+        @include MarginBottom3rem;
+    }
+    &--questions{
+        .question{
+            @include MarginBottom2rem;
+        }
+        @include ColJustifyStartFlexbox;
+        @include MarginBottom3rem;
+        h3{
+            @include MarginBottom2rem;
+        }
+
+        .title{
+            font-weight: bold;
+            line-height: 2.0;
+        }
+
+        .answer{
+            // @include BoxShadow;
+        }
+    }
+    &--email{
+        .login--form{
+            width: 100%;
+            #id_question{
+                width: 100%;
+            }
+        }
+
+        @include ColJustifyStartFlexbox;
+        flex-grow: 1;
+        @include MarginBottom3rem;
+    }
+}
+
+//category grid
+.category{
+    @include Padding5rem;
+    grid-column: 1 / -1;
+    h3{
+        @include MarginBottom3rem;
+    }
+
+    &--form{
+        @include RowJustifyStartFlexbox;
+
+
+        &--input{
+            @include RowJustifyStartFlexbox;
+            @include MarginBottom4rem;
+            @include MarginRight2rem;
+        }
+    }
+}
+
+//news
+.news {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    // For widths greater than smartphone
+    @include smartphone{
+        grid-template-columns: 1fr;
+    }
+}
+
+.headlines{
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6rem;
+    @include smartphone{
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    @include Padding5rem;
+    h3{
+        @include MarginBottom2rem;
+        font-size: 2.5rem;
+    }
+
+    &--category{
+        @include ColJustifyStartFlexbox;
+        justify-content: start;
+
+        &--titles{
+    
+            a{
+                line-height: 1.5;
+                font-weight: bold;
+            }
+        width: 100%;
+        @include ColJustifyStartFlexbox;
+        @include MarginBottom3rem;
+
+            &--info{
+                width: 100%;
+                @include RowJustifySpaceBetweenFlexbox;
+                span, a{
+                    font-size: 1.5rem;
+                    &.button{
+                        font-weight: normal;
+                        line-height: 1.5;
+                        padding: 0.5rem 1rem;
+                    }
+                }
+            }
+        }
+    }
+    &--category .viewed{
+        opacity: 0.7;
+    }
+}
+
+.view_article{
+    grid-column: 1 / -1;
+    @include Padding5rem;
+    @include ColJustifyCenterFlexbox;
+
+    button{
+        @include MarginTop3rem;
+    }
+
+    @include smartphone{
+        @include Padding3rem;
+    }
+}
+//flexbox for row and column
+.row-center{
+    @include RowJustifyCenterFlexbox;
+}
+
+.row-start{
+    @include RowJustifyStartFlexbox;
+}
+
+.col-center{
+    @include ColJustifyCenterFlexbox;
+}
+
+.col-start{
+    @include ColJustifyStartFlexbox;
+}

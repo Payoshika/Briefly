@@ -1,1 +1,1 @@
-web: gunicorn reading_circle.wsgi
+web: gunicorn briefly.wsgi:application

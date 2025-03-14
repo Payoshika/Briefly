@@ -1,0 +1,88 @@
+@use 'mixins' as *;;
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    line-height: 1.5;
+
+    @include smartphone {
+        line-height: 1.4;
+    }
+
+}
+
+h1 {
+    font-size: 5rem;
+
+    @include smartphone {
+        font-size: 4rem;
+    }
+
+}
+
+h2 {
+    font-size: 4.5rem;
+
+    @include smartphone {
+        font-size: 3.5rem;
+    }
+
+}
+
+h3 {
+    font-size: 3.0rem;
+
+    @include smartphone {
+        font-size: 2.5rem;
+    }
+
+}
+
+a {
+    font-size: 2rem;
+    text-decoration: none;
+    color: inherit;
+    line-height: 2.0;
+
+    &:hover {
+        text-decoration: none;
+    }
+
+    @include smartphone {
+        font-size: 1.5rem;
+    }
+
+}
+
+p {
+    font-size: 2rem;
+    line-height: 2.0;
+
+    @include smartphone {
+        font-size: 1.5rem;
+    }
+
+}
+
+span {
+    font-size: 2rem;
+
+    @include smartphone {
+        font-size: 1.5rem;
+    }
+
+}
+
+li {
+    font-size: 2rem;
+    line-height: 1.5;
+
+    @include smartphone {
+        font-size: 1.5rem;
+        line-height: 1.4;
+    }
+
+}
+
+input, button, label{
+    font-size: 2rem;
+}

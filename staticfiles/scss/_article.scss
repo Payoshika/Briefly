@@ -1,0 +1,42 @@
+@use "mixins" as *;
+
+.article{
+    @include ColJustifyStartFlexbox;
+    @include BoxShadowOnArticle;
+    @include Padding5rem;
+    @include MarginBottom3rem;
+    max-width: 80rem;
+    margin: 3rem auto;
+
+    @include smartphone{
+        max-width: 60rem;
+        @include Padding3rem;
+    }
+
+    &--title{
+        p{
+            font-weight: bold;
+            font-size: 2.0rem;
+        }
+    }
+
+    &--info{
+        @include MarginBottom2rem;
+        @include RowJustifyStartFlexbox;
+
+        &--publisher{
+            @include MarginRight1rem;
+        }
+
+        &--date{
+            @include MarginRight1rem;
+        }
+    }
+
+    &--content{
+        p{
+            @include MarginBottom1rem;
+            background-position: 0%;
+        }
+    }
+}

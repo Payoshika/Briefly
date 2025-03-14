@@ -1,0 +1,123 @@
+@use "mixins" as *;
+@use "base" as *;
+
+// Button
+.button {
+  display: block;
+  padding: 1rem 3rem;
+  color: $background-color;
+  background-color: $text-color;
+  @include BoxShadow;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+
+  &:hover {
+    @include ButtonUp;
+  }
+
+  &:active {
+    @include ButtonDown;
+  }
+}
+
+
+// input
+input, textarea {
+  @include MarginTop1rem;
+  @include MarginBottom1rem;
+  @include Padding1rem;
+  background: transparent;
+  border: transparent;
+  @include BoxShadow;
+  // transition: border-color 0.3s ease-in-out;
+}
+// when input is clicked, change border color
+input:focus, textarea:focus {
+  &:not([type="checkbox"]) {
+    outline: 2px solid $text-color;
+  }
+}
+
+label {
+  font-weight: bold;
+  display: block;
+}
+
+//select
+// select
+select {
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  @include MarginTop1rem;
+  @include MarginBottom1rem;
+  @include BoxShadow;
+  appearance: none;
+  padding: 1rem;
+  border: none;
+  background-color: transparent;
+  color: black;
+  font-size: 2rem;
+//   @include smartphone {
+//     font-size: 1.5rem;
+// }
+  cursor: pointer;
+}
+
+select::after {
+  position: absolute;
+  right: 15px;
+  width: 10px;
+  height: 7px;
+  background-color: $text-color;
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+  content: '';
+  pointer-events: none;
+}
+
+input[type="checkbox"]:checked {
+  accent-color: $text-color;
+}
+
+select:focus {
+  outline: none;
+}
+
+#id_categories{
+  width: 100%;
+  @include ColJustifyStartFlexbox;
+  div{
+    width: 100%;
+    label{
+      @include RowJustifyStartFlexbox;
+      >input{
+        width: min-content;
+        @include MarginRight1rem;
+      }
+    }
+  }
+}
+
+// Unordered List
+.ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  .li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+.hide{
+  opacity: 0;
+  visibility: hidden;
+}

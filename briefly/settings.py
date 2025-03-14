@@ -49,7 +49,7 @@ SECRET_KEY = str(os.getenv('SECRET_KEY'))
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'https://sheltered-peak-77702-a0cc91b47e91.herokuapp.com']
 
 
 # Application definition

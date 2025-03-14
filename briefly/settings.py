@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 import os
 from pathlib import Path
 #import News API
+import dj_database_url
 from newsapi import NewsApiClient
 import environ
 from dotenv import load_dotenv
@@ -148,9 +149,7 @@ DATABASES = {
     #     'HOST': 'localhost',
     #     'PORT': '5432',
     # }
-    'default' :{
-        os.getenv('DB_URL')
-    }
+    'default': dj_database_url.config(default=os.getenv('DATABASE_URL'))
 }
 
 # To use the BrieflyUser Model for admin access as well.
